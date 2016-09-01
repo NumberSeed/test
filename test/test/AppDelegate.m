@@ -9,6 +9,8 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
+//这次成功了
+@property (nonatomic, copy) NSString *myName;
 
 @end
 
